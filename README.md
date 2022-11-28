@@ -42,3 +42,22 @@
 ├─ README.md
 ```
 
+## Installation
+```
+git clone https://github.com/mansuremanastirli/Mern-Stack-Crud-API
+cd Mern-Stack-Crud-API
+cd Crud-API
+cd client
+npm install
+cd ..
+cd server
+npm install
+
+# Prepare your environment variables with generating .env file as example.env file
+
+npm start
+cd .. 
+cd client
+npm start
+```
+
